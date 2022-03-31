@@ -1,1 +1,1 @@
-# instrumentacion_electronica-MatlabAnalisisSenales_1
+# Instrumentación Electronica - Matlab Análisis de Señales 1
